@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="tip_percentage">Tip Percentage</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_recycler_view">RecyclerViewActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_news_list">NewsListActivity</string>
+    <string name="title_activity_movies">MoviesActivity</string>
+    <string name="title_activity_timmer">TimmerActivity</string>
+    <string name="title_activity_view_pager2">ViewPager2Activity</string>
+</resources>
